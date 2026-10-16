@@ -2,7 +2,8 @@
   "name": "jobconnect-bijapur",
   "version": "1.0.0",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test:live": "node test-live.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
